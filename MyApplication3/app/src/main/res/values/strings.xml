@@ -2,5 +2,6 @@
     <string name="app_name">My Application</string>
 
     <string name="Siguiente">Siguiente Pagina</string>
+    <string name="email_sent" />
 
 </resources>
